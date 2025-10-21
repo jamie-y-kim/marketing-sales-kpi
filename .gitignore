@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# dbt packages folder
+dbt_packages/
+
+# Jupyter checkpoints (just in case)
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
